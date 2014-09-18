@@ -9,7 +9,7 @@ In the following screenshot, on the left side the string appears to be very shor
 
 ![screenshot1](http://files.glassocean.net/github/adv-string-vis1.jpg)
 
-Why is that? Well, let's look a bit closer at what the hex values tell us. On the left side, we see a string consisting of 7 letters/numbers. On the right is the hex representation of this string - each pair of numbers is the hex code for a single character in the string. The first hex code, 47, represents the capital letter G. So what do we have at the eighth hex code? **A null character.** When null characters appear in a form control such as a textbox, they cause the string to terminate immediately at that null even if there are more characters in the string.
+Why is that? Well, let's look a bit closer at what the hex values tell us. On the left side, we see a string consisting of 7 letters/numbers. On the right is the hex representation of this string - each pair of numbers is the hex code for a single character in the string. The first hex code, 47, represents the capital letter G. So what do we have at the eighth hex code? **00 - a null character.** When null characters appear in a form control such as a textbox, they cause the string to terminate immediately at that null even if there are more characters in the string.
 
 The following screenshot is the same screenshot as above, with Purge Nulls turned on for the ASCII. Obviously, the string is much longer than what it first appeared to be:
 
