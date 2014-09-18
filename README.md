@@ -5,7 +5,11 @@ An advanced string debugger visualizer for Visual Studio .NET 2008.
 
 > *Visualizers are components of the Visual Studio debugger user interface. A visualizer creates a dialog box or another interface to display a variable or object in a manner that is appropriate to its data type. -[MSDN](http://msdn.microsoft.com/en-us/library/zayyhzts.aspx)*
 
+In the following screenshot, on the left side the string appears to be very short, but the length and hex representation on the right side seem to indicate otherwise:
+
 ![screenshot1](http://files.glassocean.net/github/adv-string-vis1.jpg)
+
+Same screenshot as above, with Purge Nulls turned on for the ASCII. Obviously, the string is much longer than what it first appeared to be:
 
 ![screenshot2](http://files.glassocean.net/github/adv-string-vis2.jpg)
 
