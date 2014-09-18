@@ -20,8 +20,9 @@ Usage
 
 FAQ
 ---
-*Can I use this in other versions of Visual Studio?*
-Apparently you can - "To use this visualizer with other versions of Visual Studio, just change the Microsoft.VisualStudio.DebuggerVisualizers references to the version that aligns with your Visual Studio version." -David Michener
+*Can I use this in other versions of Visual Studio?* Apparently you can:
+
+> *"To use this visualizer with other versions of Visual Studio, just change the Microsoft.VisualStudio.DebuggerVisualizers references to the version that aligns with your Visual Studio version." -David Michener*
 
 History
 -------
