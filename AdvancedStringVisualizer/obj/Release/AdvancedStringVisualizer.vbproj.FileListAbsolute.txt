@@ -1,0 +1,20 @@
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\bin\Release\AdvancedStringVisualizer.dll
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\bin\Release\AdvancedStringVisualizer.pdb
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\bin\Release\AdvancedStringVisualizer.xml
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\WindowsApplication1.AdvancedStringVisualizer.StringVisualizer.resources
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.vbproj.GenerateResource.Cache
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.dll
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.xml
+C:\Users\perry\Desktop\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.pdb
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\bin\Release\AdvancedStringVisualizer.dll
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\bin\Release\AdvancedStringVisualizer.pdb
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\bin\Release\AdvancedStringVisualizer.xml
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\ResolveAssemblyReference.cache
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\WindowsApplication1.AdvancedStringVisualizer.StringVisualizer.resources
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\WindowsApplication1.Resources.resources
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.vbproj.GenerateResource.Cache
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.dll
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.xml
+C:\repo\Google Drive\projects active\advanced string visualizer\AdvancedStringVisualizer\AdvancedStringVisualizer\obj\Release\AdvancedStringVisualizer.pdb
